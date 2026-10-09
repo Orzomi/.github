@@ -16,7 +16,7 @@ We find a problem people live with every day, then build the product that fixes 
 <a href="https://bartefy.ge"><img src="https://github.com/Orzomi/.github/raw/main/assets/bartefy-icon.svg" alt="Bartefy" width="72"></a>
 
 ### Bartefy
-Swap things you don't need for things you do. List an item, browse finds near you, and offer one of yours in exchange. When the owner accepts, you chat and meet to swap. No money changes hands.
+Swap things you don't need for things you do. List an item, browse finds near you, and offer one of yours in exchange. When the owner accepts, you chat and meet to swap.
 
 [bartefy.ge](https://bartefy.ge) · [Open the app at bartefy.com](https://bartefy.com)
 
