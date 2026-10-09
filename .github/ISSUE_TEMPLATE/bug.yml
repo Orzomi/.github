@@ -1,0 +1,35 @@
+name: Bug
+description: Something doesn't work as it should
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, step by step, and what went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Device and browser
+      placeholder: "iPhone 15, Safari / MacBook, Chrome / Android, the app"
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Version
+      description: In Bartefy, open Settings and copy the line that starts with "Bartefy v".
+      placeholder: "Bartefy v1.0.0 · build f04c34b"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot or video
+      description: Drag it in here.

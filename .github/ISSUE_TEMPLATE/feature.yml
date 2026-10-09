@@ -1,0 +1,23 @@
+name: Feature or idea
+description: Something new, or a change to how something works
+labels: ["feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve
+      description: What people can't do today, or what is hard.
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Who is it for
+      placeholder: "People listing their first find / staff / everyone on a phone"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: How it could work. Sketches and links welcome.
